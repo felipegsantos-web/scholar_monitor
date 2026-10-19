@@ -51,6 +51,7 @@ jobs:
             echo "No data changes."
           else
             git commit -m "data: snapshot $(date -u +%Y-%m-%d)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
