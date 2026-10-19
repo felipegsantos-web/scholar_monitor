@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Scholar Monitor</title>
+  <link rel="stylesheet" href="{{ASSET_PATH}}/styles.css" />
+  <script>
+    window.__SCHOLAR_MONITOR_CONFIG__ = {{CONFIG_JSON}};
+    window.__SCHOLAR_MONITOR_BASE__ = "{{BASE_PATH}}";
+    // Apply stored theme before body renders to avoid a flash of the wrong palette.
+    (function () {
+      try {
+        var t = localStorage.getItem("sm-theme");
+        if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+      } catch (_) {}
+    })();
+  </script>
+</head>
+<body>
+  <header class="page-header">
+    <div class="page-header-inner">
+      <span class="logo">Scholar Monitor</span>
+      <div class="header-actions">
+        <button type="button" id="theme-toggle" class="theme-toggle" aria-label="Toggle color theme">
+          <span class="theme-toggle-icon" aria-hidden="true">◐</span>
+          <span class="theme-toggle-label">Auto</span>
+        </button>
+        <a class="source-link" href="https://github.com/" id="repo-link" rel="noopener">View on GitHub</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="profile-block">
+      <div class="profile-photo" id="profile-photo"></div>
+      <div class="profile-details">
+        <h1 id="profile-name">—</h1>
+        <div class="profile-affiliation" id="profile-affiliation"></div>
+        <div class="profile-meta">
+          <span id="profile-email"></span>
+          <a id="profile-homepage" href="#" target="_blank" rel="noopener"></a>
+        </div>
+        <ul class="profile-labels" id="profile-labels"></ul>
+      </div>
+
+      <aside class="stats-panel">
+        <table class="stats-table" id="stats-table">
+          <thead>
+            <tr><th></th><th>All</th><th>Since 2021</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Citations</td><td id="stat-citations-all">—</td><td id="stat-citations-recent">—</td></tr>
+            <tr><td>h-index</td><td id="stat-h-all">—</td><td id="stat-h-recent">—</td></tr>
+            <tr><td>i10-index</td><td id="stat-i10-all">—</td><td id="stat-i10-recent">—</td></tr>
+          </tbody>
+        </table>
+        <p class="chart-note" id="stats-projection-note"></p>
+        <p class="chart-note" id="stats-updated"></p>
+        <div class="stats-charts">
+          <div class="chart-group">
+            <div class="chart-heading">Citations per year</div>
+            <button type="button" class="chart-expand" id="chart-expand" aria-haspopup="dialog" aria-controls="citations-dialog" aria-label="Expand citations per year by paper">
+              <span class="citations-chart" id="citations-chart"></span>
+              <span class="chart-expand-hint">View breakdown by paper ↗</span>
+            </button>
+            <p class="chart-note" id="chart-selection" aria-live="polite"></p>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <section class="controls">
+      <div class="date-range">
+        <label>New citations between
+          <input type="date" id="date-from" />
+          and
+          <input type="date" id="date-to" />
+        </label>
+        <button type="button" id="date-reset" class="btn-reset">Reset</button>
+      </div>
+      <label class="self-cite-toggle">
+        <input type="checkbox" id="exclude-self-cites" />
+        Exclude self-citations
+      </label>
+      <span class="date-hint" id="date-hint"></span>
+    </section>
+
+    <section class="publications">
+      <table class="publications-table" id="publications-table">
+        <thead>
+          <tr>
+            <th class="col-select"><input type="checkbox" id="select-all-papers" checked aria-label="Include all papers in histogram" title="Include all papers in histogram" /></th>
+            <th class="col-title sortable" data-sort="title">Title</th>
+            <th class="col-citations sortable sort-desc" data-sort="citations">Cited by</th>
+            <th class="col-new sortable" data-sort="new">New Cit.</th>
+            <th class="col-new-percent sortable" data-sort="newPercent">New Cit. %</th>
+            <th class="col-year sortable" data-sort="year">Year</th>
+          </tr>
+        </thead>
+        <tbody id="publications-body">
+          <tr class="loading"><td colspan="6">Loading…</td></tr>
+        </tbody>
+      </table>
+      <button type="button" id="publications-toggle" class="btn-more" hidden></button>
+    </section>
+
+    <section class="aggregates">
+      <div class="aggregate-panel">
+        <h2>Top citing authors</h2>
+        <div class="panel-hint" id="top-authors-hint">All-time, across all tracked papers</div>
+        <ol class="aggregate-list" id="top-authors-list"></ol>
+      </div>
+      <div class="aggregate-panel">
+        <h2>Top citing venues</h2>
+        <div class="panel-hint" id="top-venues-hint">All-time, across all tracked papers</div>
+        <ol class="aggregate-list" id="top-venues-list"></ol>
+      </div>
+    </section>
+
+    <footer class="page-footer">
+      <span id="last-updated"></span>
+      <span class="footer-sep">·</span>
+      <a href="https://github.com/scholar-monitor" id="footer-repo" rel="noopener">Fork on GitHub</a>
+    </footer>
+  </main>
+
+  <dialog id="citations-dialog" class="citations-dialog" aria-labelledby="citations-dialog-title" aria-describedby="citations-dialog-note">
+    <div class="dialog-heading">
+      <h2 id="citations-dialog-title">Citations per year, by paper</h2>
+      <button type="button" id="citations-dialog-close" class="dialog-close" aria-label="Close citation breakdown" autofocus>×</button>
+    </div>
+    <p class="chart-note" id="citations-dialog-note"></p>
+    <div class="chart-detail-scroll"><div id="citations-chart-detail"></div></div>
+    <p class="chart-detail-status" id="chart-detail-status" aria-live="polite">Hover, focus or tap a segment to see its paper and citation count.</p>
+    <ul class="chart-legend" id="citations-chart-legend" aria-label="Paper colours"></ul>
+  </dialog>
+
+  <template id="citations-list-template">
+    <tr class="citations-row">
+      <td colspan="6">
+        <ol class="citing-papers"></ol>
+      </td>
+    </tr>
+  </template>
+
+  <script type="module" src="{{ASSET_PATH}}/app.js"></script>
+</body>
+</html>
