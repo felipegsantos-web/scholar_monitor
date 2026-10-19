@@ -1,0 +1,35 @@
+{
+  "scholar_id": "wA7Yb2gAAAAJ",
+  "name": "Felipe G. Santos",
+  "affiliation": "City St George's, University of London",
+  "email": "Verified email at city.ac.uk",
+  "homepage": "http://www.felipegsantos.com/",
+  "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=wA7Yb2gAAAAJ&citpid=10",
+  "labels": [
+    "Political sociology",
+    "Political participation",
+    "Social change",
+    "Social movements"
+  ],
+  "totals_history": [
+    {
+      "date": "2026-10-19",
+      "citations": 425,
+      "citations_recent": 388,
+      "h_index": 11,
+      "h_index_recent": 11,
+      "i10_index": 12,
+      "i10_index_recent": 11
+    }
+  ],
+  "citations_per_year": {
+    "2019": 2,
+    "2020": 27,
+    "2021": 28,
+    "2022": 33,
+    "2023": 45,
+    "2024": 85,
+    "2025": 104,
+    "2026": 90
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "https://argus-cmvc.sfo2.digitaloceanspaces.com/noticia/2026-07-21/Dissertacao_Andressa_Final_Repositorio.pdf": {
+    "checked_at": "2026-10-19",
+    "name": null
+  },
+  "https://benjaminyoel.com/s/BenjaminYoel_ForeignCues_Elections.pdf": {
+    "checked_at": "2026-10-19",
+    "name": null
+  },
+  "https://books.google.com/books?hl=en&lr=&id=aiAOEgAAQBAJ&oi=fnd&pg=PA41&ots=Jz9s6tOT2Y&sig=HjAXblIkjEd4Swh2uMadHqvz7t8": {
+    "checked_at": "2026-10-19",
+    "name": null
+  },
+  "https://bristoluniversitypressdigital.com/edcollchap-oa/book/9781529251418/int001.xml": {
+    "checked_at": "2026-10-19",
+    "error": "HTTPError",
+    "name": null,
+    "source": "https://bristoluniversitypressdigital.com/edcollchap-oa/book/9781529251418/int001.xml"
+  },
+  "https://bristoluniversitypressdigital.com/view/journals/ejpg/aop/article-10.1332-25151088Y2026D000000149/article-10.1332-25151088Y2026D000000149.xml": {
+    "checked_at": "2026-10-19",
+    "error": "HTTPError",
+    "name": null,
+    "source": "https://bristoluniversitypressdigital.com/view/journals/ejpg/aop/article-10.1332-25151088Y2026D000000149/article-10.1332-25151088Y2026D000000149.xml"
+  },
+  "https://campus-fryslan.studenttheses.ub.rug.nl/id/eprint/799": {
+    "checked_at": "2026-10-19",
+    "name": null,
+    "source": "https://campus-fryslan.studenttheses.ub.rug.nl/id/eprint/799"
+  },
+  "https://corpus.ulaval.ca/entities/publication/f1d4d588-3589-49fa-88b5-f8927810a662": {
+    "checked_at": "2026-10-19",
+    "name": null,
+    "source": "https://corpus.ulaval.ca/entities/publication/f1d4d588-3589-49fa-88b5-f8927810a662"
+  },
+  "https://journal.literasantri.com/index.php/gjsce/article/view/137": {
+    "checked_at": "2026-10-19",
+    "name": "GEMEINSCHAFT: Journal of Social and Community Engagement",
+    "source": "https://journal.literasantri.com/index.php/gjsce/article/view/137"
+  },
+  "https://lup.lub.lu.se/student-papers/search/publication/9248012": {
+    "checked_at": "2026-10-19",
+    "name": null,
+    "source": "https://lup.lub.lu.se/student-papers/search/publication/9248012"
+  },
+  "https://www.zora.uzh.ch/entities/publication/8581c2ba-b348-4b02-b161-c439e6ad3c9c": {
+    "checked_at": "2026-10-19",
+    "name": null,
+    "source": "https://www.zora.uzh.ch/entities/publication/8581c2ba-b348-4b02-b161-c439e6ad3c9c"
+  }
+}
