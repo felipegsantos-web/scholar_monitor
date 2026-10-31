@@ -56,6 +56,10 @@
       {
         "date": "2026-10-30",
         "count": 144
+      },
+      {
+        "date": "2026-10-31",
+        "count": 144
       }
     ],
     "citations_per_year": {
@@ -128,6 +132,10 @@
       {
         "date": "2026-10-30",
         "count": 48
+      },
+      {
+        "date": "2026-10-31",
+        "count": 48
       }
     ],
     "citations_per_year": {
@@ -197,6 +205,10 @@
       },
       {
         "date": "2026-10-30",
+        "count": 38
+      },
+      {
+        "date": "2026-10-31",
         "count": 38
       }
     ],
@@ -268,6 +280,10 @@
       {
         "date": "2026-10-30",
         "count": 28
+      },
+      {
+        "date": "2026-10-31",
+        "count": 28
       }
     ],
     "citations_per_year": {
@@ -337,6 +353,10 @@
       {
         "date": "2026-10-30",
         "count": 27
+      },
+      {
+        "date": "2026-10-31",
+        "count": 27
       }
     ],
     "citations_per_year": {
@@ -405,6 +425,10 @@
       {
         "date": "2026-10-30",
         "count": 27
+      },
+      {
+        "date": "2026-10-31",
+        "count": 27
       }
     ],
     "citations_per_year": {
@@ -418,72 +442,6 @@
     },
     "citations_per_year_count": 27,
     "citations_per_year_updated": "2026-10-19"
-  },
-  {
-    "id": "wA7Yb2gAAAAJ:e5wmG9Sq2KIC",
-    "title": "Opposition electoral strategies against democratic backsliding: the United for Hungary coalition and its 2022 primaries",
-    "authors": "B Mikola, FG Santos",
-    "venue": "Democratization 33 (4), 902-926, 2026",
-    "year": 2026,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wA7Yb2gAAAAJ&pagesize=100&citation_for_view=wA7Yb2gAAAAJ:e5wmG9Sq2KIC",
-    "cites_id": "4856475132773493329",
-    "first_seen": "2026-10-19",
-    "citation_count_history": [
-      {
-        "date": "2026-10-19",
-        "count": 17
-      },
-      {
-        "date": "2026-10-20",
-        "count": 17
-      },
-      {
-        "date": "2026-10-21",
-        "count": 17
-      },
-      {
-        "date": "2026-10-22",
-        "count": 17
-      },
-      {
-        "date": "2026-10-23",
-        "count": 17
-      },
-      {
-        "date": "2026-10-24",
-        "count": 16
-      },
-      {
-        "date": "2026-10-25",
-        "count": 16
-      },
-      {
-        "date": "2026-10-26",
-        "count": 16
-      },
-      {
-        "date": "2026-10-27",
-        "count": 16
-      },
-      {
-        "date": "2026-10-28",
-        "count": 16
-      },
-      {
-        "date": "2026-10-29",
-        "count": 16
-      },
-      {
-        "date": "2026-10-30",
-        "count": 16
-      }
-    ],
-    "citations_per_year": {
-      "2025": 1,
-      "2026": 14
-    },
-    "citations_per_year_count": 16,
-    "citations_per_year_updated": "2026-10-24"
   },
   {
     "id": "wA7Yb2gAAAAJ:kNdYIx-mwKoC",
@@ -542,83 +500,89 @@
       {
         "date": "2026-10-30",
         "count": 16
+      },
+      {
+        "date": "2026-10-31",
+        "count": 17
       }
     ],
     "citations_per_year": {
       "2024": 1,
       "2025": 5,
-      "2026": 9
+      "2026": 10
     },
-    "citations_per_year_count": 16,
-    "citations_per_year_updated": "2026-10-19"
+    "citations_per_year_count": 17,
+    "citations_per_year_updated": "2026-10-31"
   },
   {
-    "id": "wA7Yb2gAAAAJ:r0BpntZqJG4C",
-    "title": "La Plataforma de Afectados por la Hipoteca. Una década de lucha por la vivienda digna 2009–2019",
-    "authors": "G D’Adda, M Emperador, F González, E Ramón, E Sala, L Sanmartín",
-    "venue": "Barcelona: Bellaterra, 2021",
-    "year": 2021,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wA7Yb2gAAAAJ&pagesize=100&citation_for_view=wA7Yb2gAAAAJ:r0BpntZqJG4C",
-    "cites_id": "12255217965303045982,8360503328519783311,3351451135002237036,7504425074714187040,6515853282950976487,6645583119576193447",
+    "id": "wA7Yb2gAAAAJ:e5wmG9Sq2KIC",
+    "title": "Opposition electoral strategies against democratic backsliding: the United for Hungary coalition and its 2022 primaries",
+    "authors": "B Mikola, FG Santos",
+    "venue": "Democratization 33 (4), 902-926, 2026",
+    "year": 2026,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wA7Yb2gAAAAJ&pagesize=100&citation_for_view=wA7Yb2gAAAAJ:e5wmG9Sq2KIC",
+    "cites_id": "4856475132773493329",
     "first_seen": "2026-10-19",
     "citation_count_history": [
       {
         "date": "2026-10-19",
-        "count": 15
+        "count": 17
       },
       {
         "date": "2026-10-20",
-        "count": 15
+        "count": 17
       },
       {
         "date": "2026-10-21",
-        "count": 15
+        "count": 17
       },
       {
         "date": "2026-10-22",
-        "count": 15
+        "count": 17
       },
       {
         "date": "2026-10-23",
-        "count": 15
+        "count": 17
       },
       {
         "date": "2026-10-24",
-        "count": 15
+        "count": 16
       },
       {
         "date": "2026-10-25",
-        "count": 15
+        "count": 16
       },
       {
         "date": "2026-10-26",
-        "count": 15
+        "count": 16
       },
       {
         "date": "2026-10-27",
-        "count": 15
+        "count": 16
       },
       {
         "date": "2026-10-28",
-        "count": 15
+        "count": 16
       },
       {
         "date": "2026-10-29",
-        "count": 15
+        "count": 16
       },
       {
         "date": "2026-10-30",
-        "count": 15
+        "count": 16
+      },
+      {
+        "date": "2026-10-31",
+        "count": 16
       }
     ],
     "citations_per_year": {
-      "2023": 2,
-      "2024": 7,
-      "2025": 5,
-      "2026": 1
+      "2025": 1,
+      "2026": 14
     },
-    "citations_per_year_count": 15,
-    "citations_per_year_updated": "2026-10-19"
+    "citations_per_year_count": 16,
+    "citations_per_year_updated": "2026-10-24"
   },
   {
     "id": "wA7Yb2gAAAAJ:3fE2CSJIrl8C",
@@ -677,15 +641,91 @@
       {
         "date": "2026-10-30",
         "count": 14
+      },
+      {
+        "date": "2026-10-31",
+        "count": 15
       }
     ],
     "citations_per_year": {
       "2023": 1,
       "2024": 5,
       "2025": 6,
-      "2026": 2
+      "2026": 3
     },
-    "citations_per_year_count": 14,
+    "citations_per_year_count": 15,
+    "citations_per_year_updated": "2026-10-31"
+  },
+  {
+    "id": "wA7Yb2gAAAAJ:r0BpntZqJG4C",
+    "title": "La Plataforma de Afectados por la Hipoteca. Una década de lucha por la vivienda digna 2009–2019",
+    "authors": "G D’Adda, M Emperador, F González, E Ramón, E Sala, L Sanmartín",
+    "venue": "Barcelona: Bellaterra, 2021",
+    "year": 2021,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wA7Yb2gAAAAJ&pagesize=100&citation_for_view=wA7Yb2gAAAAJ:r0BpntZqJG4C",
+    "cites_id": "12255217965303045982,8360503328519783311,3351451135002237036,7504425074714187040,6515853282950976487,6645583119576193447",
+    "first_seen": "2026-10-19",
+    "citation_count_history": [
+      {
+        "date": "2026-10-19",
+        "count": 15
+      },
+      {
+        "date": "2026-10-20",
+        "count": 15
+      },
+      {
+        "date": "2026-10-21",
+        "count": 15
+      },
+      {
+        "date": "2026-10-22",
+        "count": 15
+      },
+      {
+        "date": "2026-10-23",
+        "count": 15
+      },
+      {
+        "date": "2026-10-24",
+        "count": 15
+      },
+      {
+        "date": "2026-10-25",
+        "count": 15
+      },
+      {
+        "date": "2026-10-26",
+        "count": 15
+      },
+      {
+        "date": "2026-10-27",
+        "count": 15
+      },
+      {
+        "date": "2026-10-28",
+        "count": 15
+      },
+      {
+        "date": "2026-10-29",
+        "count": 15
+      },
+      {
+        "date": "2026-10-30",
+        "count": 15
+      },
+      {
+        "date": "2026-10-31",
+        "count": 15
+      }
+    ],
+    "citations_per_year": {
+      "2023": 2,
+      "2024": 7,
+      "2025": 5,
+      "2026": 1
+    },
+    "citations_per_year_count": 15,
     "citations_per_year_updated": "2026-10-19"
   },
   {
@@ -744,6 +784,10 @@
       },
       {
         "date": "2026-10-30",
+        "count": 14
+      },
+      {
+        "date": "2026-10-31",
         "count": 14
       }
     ],
@@ -811,6 +855,10 @@
       },
       {
         "date": "2026-10-30",
+        "count": 11
+      },
+      {
+        "date": "2026-10-31",
         "count": 11
       }
     ],
@@ -880,6 +928,10 @@
       {
         "date": "2026-10-30",
         "count": 8
+      },
+      {
+        "date": "2026-10-31",
+        "count": 8
       }
     ],
     "citations_per_year": {
@@ -890,72 +942,6 @@
     },
     "citations_per_year_count": 8,
     "citations_per_year_updated": "2026-10-19"
-  },
-  {
-    "id": "wA7Yb2gAAAAJ:qxL8FJ1GzNcC",
-    "title": "Actual, potential, and non-participants: Advancing the differential analysis of protest participation",
-    "authors": "D Mercea, FG Santos, M Hoffmann",
-    "venue": "Political Studies 73 (4), 1392-1417, 2025",
-    "year": 2025,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wA7Yb2gAAAAJ&pagesize=100&citation_for_view=wA7Yb2gAAAAJ:qxL8FJ1GzNcC",
-    "cites_id": "14144695501362978988",
-    "first_seen": "2026-10-19",
-    "citation_count_history": [
-      {
-        "date": "2026-10-19",
-        "count": 3
-      },
-      {
-        "date": "2026-10-20",
-        "count": 3
-      },
-      {
-        "date": "2026-10-21",
-        "count": 4
-      },
-      {
-        "date": "2026-10-22",
-        "count": 4
-      },
-      {
-        "date": "2026-10-23",
-        "count": 4
-      },
-      {
-        "date": "2026-10-24",
-        "count": 4
-      },
-      {
-        "date": "2026-10-25",
-        "count": 4
-      },
-      {
-        "date": "2026-10-26",
-        "count": 4
-      },
-      {
-        "date": "2026-10-27",
-        "count": 4
-      },
-      {
-        "date": "2026-10-28",
-        "count": 4
-      },
-      {
-        "date": "2026-10-29",
-        "count": 4
-      },
-      {
-        "date": "2026-10-30",
-        "count": 4
-      }
-    ],
-    "citations_per_year": {
-      "2025": 1,
-      "2026": 3
-    },
-    "citations_per_year_count": 4,
-    "citations_per_year_updated": "2026-10-21"
   },
   {
     "id": "wA7Yb2gAAAAJ:YOwf2qJgpHMC",
@@ -1014,14 +1000,88 @@
       {
         "date": "2026-10-30",
         "count": 4
+      },
+      {
+        "date": "2026-10-31",
+        "count": 5
       }
     ],
     "citations_per_year": {
       "2025": 2,
-      "2026": 2
+      "2026": 3
+    },
+    "citations_per_year_count": 5,
+    "citations_per_year_updated": "2026-10-31"
+  },
+  {
+    "id": "wA7Yb2gAAAAJ:qxL8FJ1GzNcC",
+    "title": "Actual, potential, and non-participants: Advancing the differential analysis of protest participation",
+    "authors": "D Mercea, FG Santos, M Hoffmann",
+    "venue": "Political Studies 73 (4), 1392-1417, 2025",
+    "year": 2025,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wA7Yb2gAAAAJ&pagesize=100&citation_for_view=wA7Yb2gAAAAJ:qxL8FJ1GzNcC",
+    "cites_id": "14144695501362978988",
+    "first_seen": "2026-10-19",
+    "citation_count_history": [
+      {
+        "date": "2026-10-19",
+        "count": 3
+      },
+      {
+        "date": "2026-10-20",
+        "count": 3
+      },
+      {
+        "date": "2026-10-21",
+        "count": 4
+      },
+      {
+        "date": "2026-10-22",
+        "count": 4
+      },
+      {
+        "date": "2026-10-23",
+        "count": 4
+      },
+      {
+        "date": "2026-10-24",
+        "count": 4
+      },
+      {
+        "date": "2026-10-25",
+        "count": 4
+      },
+      {
+        "date": "2026-10-26",
+        "count": 4
+      },
+      {
+        "date": "2026-10-27",
+        "count": 4
+      },
+      {
+        "date": "2026-10-28",
+        "count": 4
+      },
+      {
+        "date": "2026-10-29",
+        "count": 4
+      },
+      {
+        "date": "2026-10-30",
+        "count": 4
+      },
+      {
+        "date": "2026-10-31",
+        "count": 4
+      }
+    ],
+    "citations_per_year": {
+      "2025": 1,
+      "2026": 3
     },
     "citations_per_year_count": 4,
-    "citations_per_year_updated": "2026-10-19"
+    "citations_per_year_updated": "2026-10-21"
   },
   {
     "id": "wA7Yb2gAAAAJ:Zph67rFs4hoC",
@@ -1079,6 +1139,10 @@
       },
       {
         "date": "2026-10-30",
+        "count": 3
+      },
+      {
+        "date": "2026-10-31",
         "count": 3
       }
     ],
@@ -1146,6 +1210,10 @@
       {
         "date": "2026-10-30",
         "count": 3
+      },
+      {
+        "date": "2026-10-31",
+        "count": 3
       }
     ],
     "citations_per_year": {
@@ -1212,6 +1280,10 @@
       {
         "date": "2026-10-30",
         "count": 2
+      },
+      {
+        "date": "2026-10-31",
+        "count": 2
       }
     ],
     "citations_per_year": {
@@ -1276,6 +1348,10 @@
       },
       {
         "date": "2026-10-30",
+        "count": 2
+      },
+      {
+        "date": "2026-10-31",
         "count": 2
       }
     ],
@@ -1343,6 +1419,10 @@
       {
         "date": "2026-10-30",
         "count": 2
+      },
+      {
+        "date": "2026-10-31",
+        "count": 2
       }
     ],
     "citations_per_year": {
@@ -1408,11 +1488,15 @@
       {
         "date": "2026-10-30",
         "count": 0
+      },
+      {
+        "date": "2026-10-31",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-30"
+    "citations_per_year_updated": "2026-10-31"
   },
   {
     "id": "wA7Yb2gAAAAJ:mB3voiENLucC",
@@ -1471,11 +1555,15 @@
       {
         "date": "2026-10-30",
         "count": 0
+      },
+      {
+        "date": "2026-10-31",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-30"
+    "citations_per_year_updated": "2026-10-31"
   },
   {
     "id": "wA7Yb2gAAAAJ:-f6ydRqryjwC",
@@ -1534,11 +1622,15 @@
       {
         "date": "2026-10-30",
         "count": 0
+      },
+      {
+        "date": "2026-10-31",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-30"
+    "citations_per_year_updated": "2026-10-31"
   },
   {
     "id": "wA7Yb2gAAAAJ:hFOr9nPyWt4C",
@@ -1597,11 +1689,15 @@
       {
         "date": "2026-10-30",
         "count": 0
+      },
+      {
+        "date": "2026-10-31",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-30"
+    "citations_per_year_updated": "2026-10-31"
   },
   {
     "id": "wA7Yb2gAAAAJ:R3hNpaxXUhUC",
@@ -1660,11 +1756,15 @@
       {
         "date": "2026-10-30",
         "count": 0
+      },
+      {
+        "date": "2026-10-31",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-30"
+    "citations_per_year_updated": "2026-10-31"
   },
   {
     "id": "wA7Yb2gAAAAJ:TQgYirikUcIC",
@@ -1723,11 +1823,15 @@
       {
         "date": "2026-10-30",
         "count": 0
+      },
+      {
+        "date": "2026-10-31",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-30"
+    "citations_per_year_updated": "2026-10-31"
   },
   {
     "id": "wA7Yb2gAAAAJ:4TOpqqG69KYC",
@@ -1786,11 +1890,15 @@
       {
         "date": "2026-10-30",
         "count": 0
+      },
+      {
+        "date": "2026-10-31",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-30"
+    "citations_per_year_updated": "2026-10-31"
   },
   {
     "id": "wA7Yb2gAAAAJ:_kc_bZDykSQC",
@@ -1849,11 +1957,15 @@
       {
         "date": "2026-10-30",
         "count": 0
+      },
+      {
+        "date": "2026-10-31",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-30"
+    "citations_per_year_updated": "2026-10-31"
   },
   {
     "id": "wA7Yb2gAAAAJ:_FxGoFyzp5QC",
@@ -1912,11 +2024,15 @@
       {
         "date": "2026-10-30",
         "count": 0
+      },
+      {
+        "date": "2026-10-31",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-30"
+    "citations_per_year_updated": "2026-10-31"
   },
   {
     "id": "wA7Yb2gAAAAJ:5nxA0vEk-isC",
@@ -1975,11 +2091,15 @@
       {
         "date": "2026-10-30",
         "count": 0
+      },
+      {
+        "date": "2026-10-31",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-30"
+    "citations_per_year_updated": "2026-10-31"
   },
   {
     "id": "wA7Yb2gAAAAJ:8k81kl-MbHgC",
@@ -2038,10 +2158,14 @@
       {
         "date": "2026-10-30",
         "count": 0
+      },
+      {
+        "date": "2026-10-31",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-30"
+    "citations_per_year_updated": "2026-10-31"
   }
 ]
