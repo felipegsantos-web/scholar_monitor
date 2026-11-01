@@ -60,6 +60,10 @@
       {
         "date": "2026-10-31",
         "count": 144
+      },
+      {
+        "date": "2026-11-01",
+        "count": 144
       }
     ],
     "citations_per_year": {
@@ -136,6 +140,10 @@
       {
         "date": "2026-10-31",
         "count": 48
+      },
+      {
+        "date": "2026-11-01",
+        "count": 48
       }
     ],
     "citations_per_year": {
@@ -209,6 +217,10 @@
       },
       {
         "date": "2026-10-31",
+        "count": 38
+      },
+      {
+        "date": "2026-11-01",
         "count": 38
       }
     ],
@@ -284,6 +296,10 @@
       {
         "date": "2026-10-31",
         "count": 28
+      },
+      {
+        "date": "2026-11-01",
+        "count": 28
       }
     ],
     "citations_per_year": {
@@ -357,6 +373,10 @@
       {
         "date": "2026-10-31",
         "count": 27
+      },
+      {
+        "date": "2026-11-01",
+        "count": 27
       }
     ],
     "citations_per_year": {
@@ -429,6 +449,10 @@
       {
         "date": "2026-10-31",
         "count": 27
+      },
+      {
+        "date": "2026-11-01",
+        "count": 27
       }
     ],
     "citations_per_year": {
@@ -442,77 +466,6 @@
     },
     "citations_per_year_count": 27,
     "citations_per_year_updated": "2026-10-19"
-  },
-  {
-    "id": "wA7Yb2gAAAAJ:kNdYIx-mwKoC",
-    "title": "Young democrats, critical citizens and protest voters: studying the profiles of movement party supporters",
-    "authors": "FG Santos, D Mercea",
-    "venue": "Acta Politica, 1-22, 2024",
-    "year": 2024,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wA7Yb2gAAAAJ&pagesize=100&citation_for_view=wA7Yb2gAAAAJ:kNdYIx-mwKoC",
-    "cites_id": "5067478647736212852",
-    "first_seen": "2026-10-19",
-    "citation_count_history": [
-      {
-        "date": "2026-10-19",
-        "count": 16
-      },
-      {
-        "date": "2026-10-20",
-        "count": 16
-      },
-      {
-        "date": "2026-10-21",
-        "count": 16
-      },
-      {
-        "date": "2026-10-22",
-        "count": 16
-      },
-      {
-        "date": "2026-10-23",
-        "count": 16
-      },
-      {
-        "date": "2026-10-24",
-        "count": 16
-      },
-      {
-        "date": "2026-10-25",
-        "count": 16
-      },
-      {
-        "date": "2026-10-26",
-        "count": 16
-      },
-      {
-        "date": "2026-10-27",
-        "count": 16
-      },
-      {
-        "date": "2026-10-28",
-        "count": 16
-      },
-      {
-        "date": "2026-10-29",
-        "count": 16
-      },
-      {
-        "date": "2026-10-30",
-        "count": 16
-      },
-      {
-        "date": "2026-10-31",
-        "count": 17
-      }
-    ],
-    "citations_per_year": {
-      "2024": 1,
-      "2025": 5,
-      "2026": 10
-    },
-    "citations_per_year_count": 17,
-    "citations_per_year_updated": "2026-10-31"
   },
   {
     "id": "wA7Yb2gAAAAJ:e5wmG9Sq2KIC",
@@ -575,14 +528,93 @@
       {
         "date": "2026-10-31",
         "count": 16
+      },
+      {
+        "date": "2026-11-01",
+        "count": 17
       }
     ],
     "citations_per_year": {
       "2025": 1,
-      "2026": 14
+      "2026": 15
     },
-    "citations_per_year_count": 16,
-    "citations_per_year_updated": "2026-10-24"
+    "citations_per_year_count": 17,
+    "citations_per_year_updated": "2026-11-01"
+  },
+  {
+    "id": "wA7Yb2gAAAAJ:kNdYIx-mwKoC",
+    "title": "Young democrats, critical citizens and protest voters: studying the profiles of movement party supporters",
+    "authors": "FG Santos, D Mercea",
+    "venue": "Acta Politica, 1-22, 2024",
+    "year": 2024,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wA7Yb2gAAAAJ&pagesize=100&citation_for_view=wA7Yb2gAAAAJ:kNdYIx-mwKoC",
+    "cites_id": "5067478647736212852",
+    "first_seen": "2026-10-19",
+    "citation_count_history": [
+      {
+        "date": "2026-10-19",
+        "count": 16
+      },
+      {
+        "date": "2026-10-20",
+        "count": 16
+      },
+      {
+        "date": "2026-10-21",
+        "count": 16
+      },
+      {
+        "date": "2026-10-22",
+        "count": 16
+      },
+      {
+        "date": "2026-10-23",
+        "count": 16
+      },
+      {
+        "date": "2026-10-24",
+        "count": 16
+      },
+      {
+        "date": "2026-10-25",
+        "count": 16
+      },
+      {
+        "date": "2026-10-26",
+        "count": 16
+      },
+      {
+        "date": "2026-10-27",
+        "count": 16
+      },
+      {
+        "date": "2026-10-28",
+        "count": 16
+      },
+      {
+        "date": "2026-10-29",
+        "count": 16
+      },
+      {
+        "date": "2026-10-30",
+        "count": 16
+      },
+      {
+        "date": "2026-10-31",
+        "count": 17
+      },
+      {
+        "date": "2026-11-01",
+        "count": 17
+      }
+    ],
+    "citations_per_year": {
+      "2024": 1,
+      "2025": 5,
+      "2026": 10
+    },
+    "citations_per_year_count": 17,
+    "citations_per_year_updated": "2026-10-31"
   },
   {
     "id": "wA7Yb2gAAAAJ:3fE2CSJIrl8C",
@@ -644,6 +676,10 @@
       },
       {
         "date": "2026-10-31",
+        "count": 15
+      },
+      {
+        "date": "2026-11-01",
         "count": 15
       }
     ],
@@ -717,6 +753,10 @@
       {
         "date": "2026-10-31",
         "count": 15
+      },
+      {
+        "date": "2026-11-01",
+        "count": 15
       }
     ],
     "citations_per_year": {
@@ -789,6 +829,10 @@
       {
         "date": "2026-10-31",
         "count": 14
+      },
+      {
+        "date": "2026-11-01",
+        "count": 14
       }
     ],
     "citations_per_year": {
@@ -859,6 +903,10 @@
       },
       {
         "date": "2026-10-31",
+        "count": 11
+      },
+      {
+        "date": "2026-11-01",
         "count": 11
       }
     ],
@@ -932,6 +980,10 @@
       {
         "date": "2026-10-31",
         "count": 8
+      },
+      {
+        "date": "2026-11-01",
+        "count": 8
       }
     ],
     "citations_per_year": {
@@ -1004,6 +1056,10 @@
       {
         "date": "2026-10-31",
         "count": 5
+      },
+      {
+        "date": "2026-11-01",
+        "count": 5
       }
     ],
     "citations_per_year": {
@@ -1073,6 +1129,10 @@
       },
       {
         "date": "2026-10-31",
+        "count": 4
+      },
+      {
+        "date": "2026-11-01",
         "count": 4
       }
     ],
@@ -1144,6 +1204,10 @@
       {
         "date": "2026-10-31",
         "count": 3
+      },
+      {
+        "date": "2026-11-01",
+        "count": 3
       }
     ],
     "citations_per_year": {
@@ -1213,6 +1277,10 @@
       },
       {
         "date": "2026-10-31",
+        "count": 3
+      },
+      {
+        "date": "2026-11-01",
         "count": 3
       }
     ],
@@ -1284,6 +1352,10 @@
       {
         "date": "2026-10-31",
         "count": 2
+      },
+      {
+        "date": "2026-11-01",
+        "count": 2
       }
     ],
     "citations_per_year": {
@@ -1352,6 +1424,10 @@
       },
       {
         "date": "2026-10-31",
+        "count": 2
+      },
+      {
+        "date": "2026-11-01",
         "count": 2
       }
     ],
@@ -1423,6 +1499,10 @@
       {
         "date": "2026-10-31",
         "count": 2
+      },
+      {
+        "date": "2026-11-01",
+        "count": 2
       }
     ],
     "citations_per_year": {
@@ -1492,11 +1572,15 @@
       {
         "date": "2026-10-31",
         "count": 0
+      },
+      {
+        "date": "2026-11-01",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-31"
+    "citations_per_year_updated": "2026-11-01"
   },
   {
     "id": "wA7Yb2gAAAAJ:mB3voiENLucC",
@@ -1559,11 +1643,15 @@
       {
         "date": "2026-10-31",
         "count": 0
+      },
+      {
+        "date": "2026-11-01",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-31"
+    "citations_per_year_updated": "2026-11-01"
   },
   {
     "id": "wA7Yb2gAAAAJ:-f6ydRqryjwC",
@@ -1626,11 +1714,15 @@
       {
         "date": "2026-10-31",
         "count": 0
+      },
+      {
+        "date": "2026-11-01",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-31"
+    "citations_per_year_updated": "2026-11-01"
   },
   {
     "id": "wA7Yb2gAAAAJ:hFOr9nPyWt4C",
@@ -1693,11 +1785,15 @@
       {
         "date": "2026-10-31",
         "count": 0
+      },
+      {
+        "date": "2026-11-01",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-31"
+    "citations_per_year_updated": "2026-11-01"
   },
   {
     "id": "wA7Yb2gAAAAJ:R3hNpaxXUhUC",
@@ -1760,11 +1856,15 @@
       {
         "date": "2026-10-31",
         "count": 0
+      },
+      {
+        "date": "2026-11-01",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-31"
+    "citations_per_year_updated": "2026-11-01"
   },
   {
     "id": "wA7Yb2gAAAAJ:TQgYirikUcIC",
@@ -1827,11 +1927,15 @@
       {
         "date": "2026-10-31",
         "count": 0
+      },
+      {
+        "date": "2026-11-01",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-31"
+    "citations_per_year_updated": "2026-11-01"
   },
   {
     "id": "wA7Yb2gAAAAJ:4TOpqqG69KYC",
@@ -1894,11 +1998,15 @@
       {
         "date": "2026-10-31",
         "count": 0
+      },
+      {
+        "date": "2026-11-01",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-31"
+    "citations_per_year_updated": "2026-11-01"
   },
   {
     "id": "wA7Yb2gAAAAJ:_kc_bZDykSQC",
@@ -1961,11 +2069,15 @@
       {
         "date": "2026-10-31",
         "count": 0
+      },
+      {
+        "date": "2026-11-01",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-31"
+    "citations_per_year_updated": "2026-11-01"
   },
   {
     "id": "wA7Yb2gAAAAJ:_FxGoFyzp5QC",
@@ -2028,11 +2140,15 @@
       {
         "date": "2026-10-31",
         "count": 0
+      },
+      {
+        "date": "2026-11-01",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-31"
+    "citations_per_year_updated": "2026-11-01"
   },
   {
     "id": "wA7Yb2gAAAAJ:5nxA0vEk-isC",
@@ -2095,11 +2211,15 @@
       {
         "date": "2026-10-31",
         "count": 0
+      },
+      {
+        "date": "2026-11-01",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-31"
+    "citations_per_year_updated": "2026-11-01"
   },
   {
     "id": "wA7Yb2gAAAAJ:8k81kl-MbHgC",
@@ -2162,10 +2282,14 @@
       {
         "date": "2026-10-31",
         "count": 0
+      },
+      {
+        "date": "2026-11-01",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-10-31"
+    "citations_per_year_updated": "2026-11-01"
   }
 ]
