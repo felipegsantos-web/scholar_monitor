@@ -76,6 +76,10 @@
       {
         "date": "2026-11-04",
         "count": 144
+      },
+      {
+        "date": "2026-11-05",
+        "count": 144
       }
     ],
     "citations_per_year": {
@@ -168,6 +172,10 @@
       {
         "date": "2026-11-04",
         "count": 48
+      },
+      {
+        "date": "2026-11-05",
+        "count": 48
       }
     ],
     "citations_per_year": {
@@ -257,6 +265,10 @@
       },
       {
         "date": "2026-11-04",
+        "count": 38
+      },
+      {
+        "date": "2026-11-05",
         "count": 38
       }
     ],
@@ -348,6 +360,10 @@
       {
         "date": "2026-11-04",
         "count": 28
+      },
+      {
+        "date": "2026-11-05",
+        "count": 28
       }
     ],
     "citations_per_year": {
@@ -437,6 +453,10 @@
       {
         "date": "2026-11-04",
         "count": 27
+      },
+      {
+        "date": "2026-11-05",
+        "count": 27
       }
     ],
     "citations_per_year": {
@@ -524,6 +544,10 @@
       },
       {
         "date": "2026-11-04",
+        "count": 27
+      },
+      {
+        "date": "2026-11-05",
         "count": 27
       }
     ],
@@ -616,6 +640,10 @@
       {
         "date": "2026-11-04",
         "count": 17
+      },
+      {
+        "date": "2026-11-05",
+        "count": 17
       }
     ],
     "citations_per_year": {
@@ -701,6 +729,10 @@
       },
       {
         "date": "2026-11-04",
+        "count": 17
+      },
+      {
+        "date": "2026-11-05",
         "count": 17
       }
     ],
@@ -788,6 +820,10 @@
       },
       {
         "date": "2026-11-04",
+        "count": 15
+      },
+      {
+        "date": "2026-11-05",
         "count": 15
       }
     ],
@@ -877,6 +913,10 @@
       {
         "date": "2026-11-04",
         "count": 15
+      },
+      {
+        "date": "2026-11-05",
+        "count": 15
       }
     ],
     "citations_per_year": {
@@ -965,6 +1005,10 @@
       {
         "date": "2026-11-04",
         "count": 14
+      },
+      {
+        "date": "2026-11-05",
+        "count": 14
       }
     ],
     "citations_per_year": {
@@ -1051,6 +1095,10 @@
       },
       {
         "date": "2026-11-04",
+        "count": 11
+      },
+      {
+        "date": "2026-11-05",
         "count": 11
       }
     ],
@@ -1140,6 +1188,10 @@
       {
         "date": "2026-11-04",
         "count": 8
+      },
+      {
+        "date": "2026-11-05",
+        "count": 8
       }
     ],
     "citations_per_year": {
@@ -1150,92 +1202,6 @@
     },
     "citations_per_year_count": 8,
     "citations_per_year_updated": "2026-10-19"
-  },
-  {
-    "id": "wA7Yb2gAAAAJ:qxL8FJ1GzNcC",
-    "title": "Actual, potential, and non-participants: Advancing the differential analysis of protest participation",
-    "authors": "D Mercea, FG Santos, M Hoffmann",
-    "venue": "Political Studies 73 (4), 1392-1417, 2025",
-    "year": 2025,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wA7Yb2gAAAAJ&pagesize=100&citation_for_view=wA7Yb2gAAAAJ:qxL8FJ1GzNcC",
-    "cites_id": "14144695501362978988",
-    "first_seen": "2026-10-19",
-    "citation_count_history": [
-      {
-        "date": "2026-10-19",
-        "count": 3
-      },
-      {
-        "date": "2026-10-20",
-        "count": 3
-      },
-      {
-        "date": "2026-10-21",
-        "count": 4
-      },
-      {
-        "date": "2026-10-22",
-        "count": 4
-      },
-      {
-        "date": "2026-10-23",
-        "count": 4
-      },
-      {
-        "date": "2026-10-24",
-        "count": 4
-      },
-      {
-        "date": "2026-10-25",
-        "count": 4
-      },
-      {
-        "date": "2026-10-26",
-        "count": 4
-      },
-      {
-        "date": "2026-10-27",
-        "count": 4
-      },
-      {
-        "date": "2026-10-28",
-        "count": 4
-      },
-      {
-        "date": "2026-10-29",
-        "count": 4
-      },
-      {
-        "date": "2026-10-30",
-        "count": 4
-      },
-      {
-        "date": "2026-10-31",
-        "count": 4
-      },
-      {
-        "date": "2026-11-01",
-        "count": 4
-      },
-      {
-        "date": "2026-11-02",
-        "count": 4
-      },
-      {
-        "date": "2026-11-03",
-        "count": 5
-      },
-      {
-        "date": "2026-11-04",
-        "count": 5
-      }
-    ],
-    "citations_per_year": {
-      "2025": 1,
-      "2026": 4
-    },
-    "citations_per_year_count": 5,
-    "citations_per_year_updated": "2026-11-03"
   },
   {
     "id": "wA7Yb2gAAAAJ:YOwf2qJgpHMC",
@@ -1314,14 +1280,108 @@
       {
         "date": "2026-11-04",
         "count": 5
+      },
+      {
+        "date": "2026-11-05",
+        "count": 6
       }
     ],
     "citations_per_year": {
       "2025": 2,
-      "2026": 3
+      "2026": 4
+    },
+    "citations_per_year_count": 6,
+    "citations_per_year_updated": "2026-11-05"
+  },
+  {
+    "id": "wA7Yb2gAAAAJ:qxL8FJ1GzNcC",
+    "title": "Actual, potential, and non-participants: Advancing the differential analysis of protest participation",
+    "authors": "D Mercea, FG Santos, M Hoffmann",
+    "venue": "Political Studies 73 (4), 1392-1417, 2025",
+    "year": 2025,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wA7Yb2gAAAAJ&pagesize=100&citation_for_view=wA7Yb2gAAAAJ:qxL8FJ1GzNcC",
+    "cites_id": "14144695501362978988",
+    "first_seen": "2026-10-19",
+    "citation_count_history": [
+      {
+        "date": "2026-10-19",
+        "count": 3
+      },
+      {
+        "date": "2026-10-20",
+        "count": 3
+      },
+      {
+        "date": "2026-10-21",
+        "count": 4
+      },
+      {
+        "date": "2026-10-22",
+        "count": 4
+      },
+      {
+        "date": "2026-10-23",
+        "count": 4
+      },
+      {
+        "date": "2026-10-24",
+        "count": 4
+      },
+      {
+        "date": "2026-10-25",
+        "count": 4
+      },
+      {
+        "date": "2026-10-26",
+        "count": 4
+      },
+      {
+        "date": "2026-10-27",
+        "count": 4
+      },
+      {
+        "date": "2026-10-28",
+        "count": 4
+      },
+      {
+        "date": "2026-10-29",
+        "count": 4
+      },
+      {
+        "date": "2026-10-30",
+        "count": 4
+      },
+      {
+        "date": "2026-10-31",
+        "count": 4
+      },
+      {
+        "date": "2026-11-01",
+        "count": 4
+      },
+      {
+        "date": "2026-11-02",
+        "count": 4
+      },
+      {
+        "date": "2026-11-03",
+        "count": 5
+      },
+      {
+        "date": "2026-11-04",
+        "count": 5
+      },
+      {
+        "date": "2026-11-05",
+        "count": 5
+      }
+    ],
+    "citations_per_year": {
+      "2025": 1,
+      "2026": 4
     },
     "citations_per_year_count": 5,
-    "citations_per_year_updated": "2026-10-31"
+    "citations_per_year_updated": "2026-11-03"
   },
   {
     "id": "wA7Yb2gAAAAJ:Zph67rFs4hoC",
@@ -1399,6 +1459,10 @@
       },
       {
         "date": "2026-11-04",
+        "count": 3
+      },
+      {
+        "date": "2026-11-05",
         "count": 3
       }
     ],
@@ -1486,6 +1550,10 @@
       {
         "date": "2026-11-04",
         "count": 3
+      },
+      {
+        "date": "2026-11-05",
+        "count": 3
       }
     ],
     "citations_per_year": {
@@ -1572,6 +1640,10 @@
       {
         "date": "2026-11-04",
         "count": 2
+      },
+      {
+        "date": "2026-11-05",
+        "count": 2
       }
     ],
     "citations_per_year": {
@@ -1656,6 +1728,10 @@
       },
       {
         "date": "2026-11-04",
+        "count": 2
+      },
+      {
+        "date": "2026-11-05",
         "count": 2
       }
     ],
@@ -1743,6 +1819,10 @@
       {
         "date": "2026-11-04",
         "count": 2
+      },
+      {
+        "date": "2026-11-05",
+        "count": 2
       }
     ],
     "citations_per_year": {
@@ -1828,11 +1908,15 @@
       {
         "date": "2026-11-04",
         "count": 0
+      },
+      {
+        "date": "2026-11-05",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-04"
+    "citations_per_year_updated": "2026-11-05"
   },
   {
     "id": "wA7Yb2gAAAAJ:mB3voiENLucC",
@@ -1911,11 +1995,15 @@
       {
         "date": "2026-11-04",
         "count": 0
+      },
+      {
+        "date": "2026-11-05",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-04"
+    "citations_per_year_updated": "2026-11-05"
   },
   {
     "id": "wA7Yb2gAAAAJ:-f6ydRqryjwC",
@@ -1994,11 +2082,15 @@
       {
         "date": "2026-11-04",
         "count": 0
+      },
+      {
+        "date": "2026-11-05",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-04"
+    "citations_per_year_updated": "2026-11-05"
   },
   {
     "id": "wA7Yb2gAAAAJ:hFOr9nPyWt4C",
@@ -2077,11 +2169,15 @@
       {
         "date": "2026-11-04",
         "count": 0
+      },
+      {
+        "date": "2026-11-05",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-04"
+    "citations_per_year_updated": "2026-11-05"
   },
   {
     "id": "wA7Yb2gAAAAJ:R3hNpaxXUhUC",
@@ -2160,11 +2256,15 @@
       {
         "date": "2026-11-04",
         "count": 0
+      },
+      {
+        "date": "2026-11-05",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-04"
+    "citations_per_year_updated": "2026-11-05"
   },
   {
     "id": "wA7Yb2gAAAAJ:TQgYirikUcIC",
@@ -2243,11 +2343,15 @@
       {
         "date": "2026-11-04",
         "count": 0
+      },
+      {
+        "date": "2026-11-05",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-04"
+    "citations_per_year_updated": "2026-11-05"
   },
   {
     "id": "wA7Yb2gAAAAJ:4TOpqqG69KYC",
@@ -2326,11 +2430,15 @@
       {
         "date": "2026-11-04",
         "count": 0
+      },
+      {
+        "date": "2026-11-05",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-04"
+    "citations_per_year_updated": "2026-11-05"
   },
   {
     "id": "wA7Yb2gAAAAJ:_kc_bZDykSQC",
@@ -2409,11 +2517,15 @@
       {
         "date": "2026-11-04",
         "count": 0
+      },
+      {
+        "date": "2026-11-05",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-04"
+    "citations_per_year_updated": "2026-11-05"
   },
   {
     "id": "wA7Yb2gAAAAJ:_FxGoFyzp5QC",
@@ -2492,11 +2604,15 @@
       {
         "date": "2026-11-04",
         "count": 0
+      },
+      {
+        "date": "2026-11-05",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-04"
+    "citations_per_year_updated": "2026-11-05"
   },
   {
     "id": "wA7Yb2gAAAAJ:5nxA0vEk-isC",
@@ -2575,11 +2691,15 @@
       {
         "date": "2026-11-04",
         "count": 0
+      },
+      {
+        "date": "2026-11-05",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-04"
+    "citations_per_year_updated": "2026-11-05"
   },
   {
     "id": "wA7Yb2gAAAAJ:8k81kl-MbHgC",
@@ -2658,10 +2778,14 @@
       {
         "date": "2026-11-04",
         "count": 0
+      },
+      {
+        "date": "2026-11-05",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-04"
+    "citations_per_year_updated": "2026-11-05"
   }
 ]
