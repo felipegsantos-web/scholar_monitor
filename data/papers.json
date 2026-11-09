@@ -92,6 +92,10 @@
       {
         "date": "2026-11-08",
         "count": 145
+      },
+      {
+        "date": "2026-11-09",
+        "count": 145
       }
     ],
     "citations_per_year": {
@@ -200,6 +204,10 @@
       {
         "date": "2026-11-08",
         "count": 48
+      },
+      {
+        "date": "2026-11-09",
+        "count": 48
       }
     ],
     "citations_per_year": {
@@ -305,6 +313,10 @@
       },
       {
         "date": "2026-11-08",
+        "count": 38
+      },
+      {
+        "date": "2026-11-09",
         "count": 38
       }
     ],
@@ -412,6 +424,10 @@
       {
         "date": "2026-11-08",
         "count": 28
+      },
+      {
+        "date": "2026-11-09",
+        "count": 28
       }
     ],
     "citations_per_year": {
@@ -517,6 +533,10 @@
       {
         "date": "2026-11-08",
         "count": 27
+      },
+      {
+        "date": "2026-11-09",
+        "count": 27
       }
     ],
     "citations_per_year": {
@@ -620,6 +640,10 @@
       },
       {
         "date": "2026-11-08",
+        "count": 27
+      },
+      {
+        "date": "2026-11-09",
         "count": 27
       }
     ],
@@ -728,6 +752,10 @@
       {
         "date": "2026-11-08",
         "count": 17
+      },
+      {
+        "date": "2026-11-09",
+        "count": 17
       }
     ],
     "citations_per_year": {
@@ -829,6 +857,10 @@
       },
       {
         "date": "2026-11-08",
+        "count": 17
+      },
+      {
+        "date": "2026-11-09",
         "count": 17
       }
     ],
@@ -933,6 +965,10 @@
       {
         "date": "2026-11-08",
         "count": 15
+      },
+      {
+        "date": "2026-11-09",
+        "count": 15
       }
     ],
     "citations_per_year": {
@@ -943,110 +979,6 @@
     },
     "citations_per_year_count": 15,
     "citations_per_year_updated": "2026-10-31"
-  },
-  {
-    "id": "wA7Yb2gAAAAJ:r0BpntZqJG4C",
-    "title": "La Plataforma de Afectados por la Hipoteca. Una década de lucha por la vivienda digna 2009–2019",
-    "authors": "G D’Adda, M Emperador, F González, E Ramón, E Sala, L Sanmartín",
-    "venue": "Barcelona: Bellaterra, 2021",
-    "year": 2021,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wA7Yb2gAAAAJ&pagesize=100&citation_for_view=wA7Yb2gAAAAJ:r0BpntZqJG4C",
-    "cites_id": "12255217965303045982,8360503328519783311,3351451135002237036,7504425074714187040,6515853282950976487,6645583119576193447",
-    "first_seen": "2026-10-19",
-    "citation_count_history": [
-      {
-        "date": "2026-10-19",
-        "count": 15
-      },
-      {
-        "date": "2026-10-20",
-        "count": 15
-      },
-      {
-        "date": "2026-10-21",
-        "count": 15
-      },
-      {
-        "date": "2026-10-22",
-        "count": 15
-      },
-      {
-        "date": "2026-10-23",
-        "count": 15
-      },
-      {
-        "date": "2026-10-24",
-        "count": 15
-      },
-      {
-        "date": "2026-10-25",
-        "count": 15
-      },
-      {
-        "date": "2026-10-26",
-        "count": 15
-      },
-      {
-        "date": "2026-10-27",
-        "count": 15
-      },
-      {
-        "date": "2026-10-28",
-        "count": 15
-      },
-      {
-        "date": "2026-10-29",
-        "count": 15
-      },
-      {
-        "date": "2026-10-30",
-        "count": 15
-      },
-      {
-        "date": "2026-10-31",
-        "count": 15
-      },
-      {
-        "date": "2026-11-01",
-        "count": 15
-      },
-      {
-        "date": "2026-11-02",
-        "count": 15
-      },
-      {
-        "date": "2026-11-03",
-        "count": 15
-      },
-      {
-        "date": "2026-11-04",
-        "count": 15
-      },
-      {
-        "date": "2026-11-05",
-        "count": 15
-      },
-      {
-        "date": "2026-11-06",
-        "count": 15
-      },
-      {
-        "date": "2026-11-07",
-        "count": 15
-      },
-      {
-        "date": "2026-11-08",
-        "count": 15
-      }
-    ],
-    "citations_per_year": {
-      "2023": 2,
-      "2024": 7,
-      "2025": 5,
-      "2026": 1
-    },
-    "citations_per_year_count": 15,
-    "citations_per_year_updated": "2026-10-19"
   },
   {
     "id": "wA7Yb2gAAAAJ:0EnyYjriUFMC",
@@ -1141,6 +1073,10 @@
       {
         "date": "2026-11-08",
         "count": 14
+      },
+      {
+        "date": "2026-11-09",
+        "count": 15
       }
     ],
     "citations_per_year": {
@@ -1149,6 +1085,114 @@
       "2025": 2
     },
     "citations_per_year_count": 14,
+    "citations_per_year_updated": "2026-10-19"
+  },
+  {
+    "id": "wA7Yb2gAAAAJ:r0BpntZqJG4C",
+    "title": "La Plataforma de Afectados por la Hipoteca. Una década de lucha por la vivienda digna 2009–2019",
+    "authors": "G D’Adda, M Emperador, F González, E Ramón, E Sala, L Sanmartín",
+    "venue": "Barcelona: Bellaterra, 2021",
+    "year": 2021,
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wA7Yb2gAAAAJ&pagesize=100&citation_for_view=wA7Yb2gAAAAJ:r0BpntZqJG4C",
+    "cites_id": "12255217965303045982,8360503328519783311,3351451135002237036,7504425074714187040,6515853282950976487,6645583119576193447",
+    "first_seen": "2026-10-19",
+    "citation_count_history": [
+      {
+        "date": "2026-10-19",
+        "count": 15
+      },
+      {
+        "date": "2026-10-20",
+        "count": 15
+      },
+      {
+        "date": "2026-10-21",
+        "count": 15
+      },
+      {
+        "date": "2026-10-22",
+        "count": 15
+      },
+      {
+        "date": "2026-10-23",
+        "count": 15
+      },
+      {
+        "date": "2026-10-24",
+        "count": 15
+      },
+      {
+        "date": "2026-10-25",
+        "count": 15
+      },
+      {
+        "date": "2026-10-26",
+        "count": 15
+      },
+      {
+        "date": "2026-10-27",
+        "count": 15
+      },
+      {
+        "date": "2026-10-28",
+        "count": 15
+      },
+      {
+        "date": "2026-10-29",
+        "count": 15
+      },
+      {
+        "date": "2026-10-30",
+        "count": 15
+      },
+      {
+        "date": "2026-10-31",
+        "count": 15
+      },
+      {
+        "date": "2026-11-01",
+        "count": 15
+      },
+      {
+        "date": "2026-11-02",
+        "count": 15
+      },
+      {
+        "date": "2026-11-03",
+        "count": 15
+      },
+      {
+        "date": "2026-11-04",
+        "count": 15
+      },
+      {
+        "date": "2026-11-05",
+        "count": 15
+      },
+      {
+        "date": "2026-11-06",
+        "count": 15
+      },
+      {
+        "date": "2026-11-07",
+        "count": 15
+      },
+      {
+        "date": "2026-11-08",
+        "count": 15
+      },
+      {
+        "date": "2026-11-09",
+        "count": 15
+      }
+    ],
+    "citations_per_year": {
+      "2023": 2,
+      "2024": 7,
+      "2025": 5,
+      "2026": 1
+    },
+    "citations_per_year_count": 15,
     "citations_per_year_updated": "2026-10-19"
   },
   {
@@ -1243,6 +1287,10 @@
       },
       {
         "date": "2026-11-08",
+        "count": 11
+      },
+      {
+        "date": "2026-11-09",
         "count": 11
       }
     ],
@@ -1348,6 +1396,10 @@
       {
         "date": "2026-11-08",
         "count": 8
+      },
+      {
+        "date": "2026-11-09",
+        "count": 8
       }
     ],
     "citations_per_year": {
@@ -1452,6 +1504,10 @@
       {
         "date": "2026-11-08",
         "count": 6
+      },
+      {
+        "date": "2026-11-09",
+        "count": 6
       }
     ],
     "citations_per_year": {
@@ -1553,6 +1609,10 @@
       },
       {
         "date": "2026-11-08",
+        "count": 5
+      },
+      {
+        "date": "2026-11-09",
         "count": 5
       }
     ],
@@ -1656,6 +1716,10 @@
       {
         "date": "2026-11-08",
         "count": 3
+      },
+      {
+        "date": "2026-11-09",
+        "count": 3
       }
     ],
     "citations_per_year": {
@@ -1757,6 +1821,10 @@
       },
       {
         "date": "2026-11-08",
+        "count": 3
+      },
+      {
+        "date": "2026-11-09",
         "count": 3
       }
     ],
@@ -1860,6 +1928,10 @@
       {
         "date": "2026-11-08",
         "count": 2
+      },
+      {
+        "date": "2026-11-09",
+        "count": 2
       }
     ],
     "citations_per_year": {
@@ -1960,6 +2032,10 @@
       },
       {
         "date": "2026-11-08",
+        "count": 2
+      },
+      {
+        "date": "2026-11-09",
         "count": 2
       }
     ],
@@ -2063,6 +2139,10 @@
       {
         "date": "2026-11-08",
         "count": 2
+      },
+      {
+        "date": "2026-11-09",
+        "count": 2
       }
     ],
     "citations_per_year": {
@@ -2164,11 +2244,15 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-08"
+    "citations_per_year_updated": "2026-11-09"
   },
   {
     "id": "wA7Yb2gAAAAJ:mB3voiENLucC",
@@ -2263,11 +2347,15 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-08"
+    "citations_per_year_updated": "2026-11-09"
   },
   {
     "id": "wA7Yb2gAAAAJ:-f6ydRqryjwC",
@@ -2362,11 +2450,15 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-08"
+    "citations_per_year_updated": "2026-11-09"
   },
   {
     "id": "wA7Yb2gAAAAJ:hFOr9nPyWt4C",
@@ -2461,11 +2553,15 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-08"
+    "citations_per_year_updated": "2026-11-09"
   },
   {
     "id": "wA7Yb2gAAAAJ:R3hNpaxXUhUC",
@@ -2560,11 +2656,15 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-08"
+    "citations_per_year_updated": "2026-11-09"
   },
   {
     "id": "wA7Yb2gAAAAJ:TQgYirikUcIC",
@@ -2659,11 +2759,15 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-08"
+    "citations_per_year_updated": "2026-11-09"
   },
   {
     "id": "wA7Yb2gAAAAJ:4TOpqqG69KYC",
@@ -2758,11 +2862,15 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-08"
+    "citations_per_year_updated": "2026-11-09"
   },
   {
     "id": "wA7Yb2gAAAAJ:_kc_bZDykSQC",
@@ -2857,11 +2965,15 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-08"
+    "citations_per_year_updated": "2026-11-09"
   },
   {
     "id": "wA7Yb2gAAAAJ:_FxGoFyzp5QC",
@@ -2956,11 +3068,15 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-08"
+    "citations_per_year_updated": "2026-11-09"
   },
   {
     "id": "wA7Yb2gAAAAJ:5nxA0vEk-isC",
@@ -3055,11 +3171,15 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-08"
+    "citations_per_year_updated": "2026-11-09"
   },
   {
     "id": "wA7Yb2gAAAAJ:8k81kl-MbHgC",
@@ -3154,10 +3274,14 @@
       {
         "date": "2026-11-08",
         "count": 0
+      },
+      {
+        "date": "2026-11-09",
+        "count": 0
       }
     ],
     "citations_per_year": {},
     "citations_per_year_count": 0,
-    "citations_per_year_updated": "2026-11-08"
+    "citations_per_year_updated": "2026-11-09"
   }
 ]
