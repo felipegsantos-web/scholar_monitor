@@ -63,7 +63,7 @@
     "source": "https://kops.uni-konstanz.de/bitstreams/03916257-b208-4407-8bc1-1245a995b55e/download"
   },
   "https://library.oapen.org/handle/20.500.12657/113222": {
-    "checked_at": "2026-11-06",
+    "checked_at": "2026-11-13",
     "error": "HTTPError",
     "name": null,
     "source": "https://library.oapen.org/handle/20.500.12657/113222"
@@ -94,7 +94,7 @@
     "source": "https://osf.io/preprints/socarxiv/25u4a"
   },
   "https://ricerca.sns.it/handle/11384/159265": {
-    "checked_at": "2026-11-06",
+    "checked_at": "2026-11-13",
     "name": null,
     "source": "https://ricerca.sns.it/handle/11384/159265"
   },
